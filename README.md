@@ -35,7 +35,7 @@ A data structure that consists of nodes in a parent/child relationship.
 
 
 ### Code:
-```javascript {.line-numbers}
+```javascript class:"lineNo"
 // CLASS NODE
 class Node {
     constructor (value) {
