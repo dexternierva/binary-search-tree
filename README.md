@@ -34,8 +34,8 @@ A data structure that consists of nodes in a parent/child relationship.
     * Delete duplicate from the right sub-tree
 
 
-# Code:
-```javascript class:"lineNo"
+## Code:
+```javascript
 // CLASS NODE
 class Node {
     constructor (value) {
